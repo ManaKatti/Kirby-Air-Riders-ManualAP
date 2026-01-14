@@ -1,0 +1,1272 @@
+[
+  {
+    "name": "Entered Secret Path Above Cave in Fantasy Meadows",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Fantasy Meadows| AND |@Flight Machines:1|"
+  },
+  {
+    "name": "Target Flight 2: 80 points or more total with Bulk Star",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|Target Flight 2| AND (|Bulk Star| OR |City Trial|)"
+  },
+  {
+    "name": "Win Target Flight 1",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|Target Flight 1|"
+  },
+  {
+    "name": "Win Target Flight 2",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|Target Flight 2|"
+  },
+  {
+    "name": "Win Target Flight 3",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|Target Flight 3|"
+  },
+  {
+    "name": "Air Ride: Win with 5 unique characters",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|@Character:5|"
+  },
+  {
+    "name": "Top Ride: Win with 5 unique characters",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|@Character:5|"
+  },
+  {
+    "name": "Air Ride: Win a race",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Top Ride: Win a race",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stadium: Win a stadium",
+    "category": [
+      "Stadium"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Target Flight 1: 100 points or more total",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|Target Flight 1|"
+  },
+  {
+    "name": "Air Ride: Win 4 races on unique courses",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|@Course (Air Ride):4|"
+  },
+  {
+    "name": "Top Ride: Win 3 races on unique courses",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|@Course (Top Ride):3|"
+  },
+  {
+    "name": "Air Ride: Win with 4 unique vehicles",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|@Vehicles:4|"
+  },
+  {
+    "name": "Top Ride: Win with 4 unique vehicles",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|@Vehicles:4|"
+  },
+  {
+    "name": "Target Flight 1: 50 points or more total",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|Target Flight 1|"
+  },
+  {
+    "name": "Target Flight 2: 50 points or more total",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|Target Flight 2|"
+  },
+  {
+    "name": "Target Flight 2: 100 points or more total",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|Target Flight 2|"
+  },
+  {
+    "name": "Target Flight: Hit a points pad on the floor",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|@Target Flight|"
+  },
+  {
+    "name": "Target Flight 3: Hit the 100 points target",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|Target Flight 3|"
+  },
+  {
+    "name": "Target Flight 1: Hit the 100 points target",
+    "category": [
+      "Stadium: Target Flight"
+    ],
+    "requires": "|Target Flight 1|"
+  },
+  {
+    "name": "Big Battle: Complete a Big Battle",
+    "category": [
+      "Stadium: Big Battle"
+    ],
+    "requires": "|@Big Battle|"
+  },
+  {
+    "name": "Vs Boss: Defeat a boss",
+    "category": [
+      "Stadium: Vs Boss"
+    ],
+    "requires": "|@Vs Boss|"
+  },
+  {
+    "name": "Rail Panic: Clear within 40 seconds",
+    "category": [
+      "Stadium: Rail Panic"
+    ],
+    "requires": "|Rail Panic|"
+  },
+  {
+    "name": "Rail Panic: Clear without taking damage",
+    "category": [
+      "Stadium: Rail Panic"
+    ],
+    "requires": "|Rail Panic|"
+  },
+  {
+    "name": "Air Ride: Win 6 races on unique courses",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|@Course (Air Ride):6|"
+  },
+  {
+    "name": "Air Ride: Win 9 races on unique courses",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|@Course (Air Ride):9|"
+  },
+  {
+    "name": "Air Ride: Win 12 races on unique courses",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|@Course (Air Ride):12|",
+    "place_item": [
+      "Gigantes Key"
+    ]
+  },
+  {
+    "name": "Top Ride: Win 4 races on unique courses",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|@Course (Top Ride):4|"
+  },
+  {
+    "name": "Top Ride: Win 6 races on unique courses",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|@Course (Top Ride):6|",
+    "place_item": [
+      "Gigantes Key"
+    ]
+  },
+  {
+    "name": "Vs Boss: Defeat Robo Dedede",
+    "category": [
+      "Stadium: Vs Boss"
+    ],
+    "requires": "|Vs. Robo Dedede|"
+  },
+  {
+    "name": "Vs Boss: Defeat Nightmare",
+    "category": [
+      "Stadium: Vs Boss"
+    ],
+    "requires": "|Vs. Nightmare|"
+  },
+  {
+    "name": "Vs Boss: Defeat Marx",
+    "category": [
+      "Stadium: Vs Boss"
+    ],
+    "requires": "|Vs. Marx|"
+  },
+  {
+    "name": "Vs Boss: Defeat Zero Two",
+    "category": [
+      "Stadium: Vs Boss"
+    ],
+    "requires": "|Vs. Zero Two|"
+  },
+  {
+    "name": "Vs Boss: Defeat 2 Bosses",
+    "category": [
+      "Stadium: Vs Boss"
+    ],
+    "requires": "|@Vs Boss:2|",
+    "place_item": [
+      "Gigantes Key"
+    ]
+  },
+  {
+    "name": "Button Rush: Win a match",
+    "category": [
+      "Stadium: Button Rush"
+    ],
+    "requires": "|@Button Rush|"
+  },
+  {
+    "name": "Button Rush 1: Win a match",
+    "category": [
+      "Stadium: Button Rush"
+    ],
+    "requires": "|Button Rush 1|"
+  },
+  {
+    "name": "Button Rush 2: Win a match",
+    "category": [
+      "Stadium: Button Rush"
+    ],
+    "requires": "|Button Rush 2|"
+  },
+  {
+    "name": "Rail Panic: Win a match",
+    "category": [
+      "Stadium: Rail Panic"
+    ],
+    "requires": "|Rail Panic|"
+  },
+  {
+    "name": "Oval Circuit: Clear within 45 seconds",
+    "category": [
+      "Stadium: Oval Circuit"
+    ],
+    "requires": "|Oval Circuit|"
+  },
+  {
+    "name": "Oval Circuit: Win a match",
+    "category": [
+      "Stadium: Oval Circuit"
+    ],
+    "requires": "|Oval Circuit|"
+  },
+  {
+    "name": "Big Battle: Win a match",
+    "category": [
+      "Stadium: Big Battle"
+    ],
+    "requires": "|@Big Battle|"
+  },
+  {
+    "name": "Big Battle 1: Win a match",
+    "category": [
+      "Stadium: Big Battle"
+    ],
+    "requires": "|Big Battle 1|"
+  },
+  {
+    "name": "Big Battle 1: Complete a match without shrinking",
+    "category": [
+      "Stadium: Big Battle"
+    ],
+    "requires": "|Big Battle 1|"
+  },
+  {
+    "name": "Big Battle 2: Win a match",
+    "category": [
+      "Stadium: Big Battle"
+    ],
+    "requires": "|Big Battle 2|"
+  },
+  {
+    "name": "Big Battle 3: Win a match",
+    "category": [
+      "Stadium: Big Battle"
+    ],
+    "requires": "|Big Battle 3|"
+  },
+  {
+    "name": "Big Battle: Get 6 KOs in one match",
+    "category": [
+      "Stadium: Big Battle"
+    ],
+    "requires": "|@Big Battle|"
+  },
+  {
+    "name": "Big Battle 2: Complete a match without shrinking",
+    "category": [
+      "Stadium: Big Battle"
+    ],
+    "requires": "|Big Battle 2|"
+  },
+  {
+    "name": "Big Battle 3: Complete a match without shrinking",
+    "category": [
+      "Stadium: Big Battle"
+    ],
+    "requires": "|Big Battle 3|"
+  },
+  {
+    "name": "Air Glider: Reach a score of 250m/273yds",
+    "category": [
+      "Stadium: Air Glider"
+    ],
+    "requires": "|Air Glider|"
+  },
+  {
+    "name": "Air Glider: Reach a score of 500m/547yds",
+    "category": [
+      "Stadium: Air Glider"
+    ],
+    "requires": "|Air Glider| AND |City Trial|"
+  },
+  {
+    "name": "Air Glider: Reach a score of 750m/820yds",
+    "category": [
+      "Stadium: Air Glider"
+    ],
+    "requires": "|Air Glider| AND |City Trial|"
+  },
+  {
+    "name": "High Jump: Reach a score of 40m/44yds",
+    "category": [
+      "Stadium: High Jump"
+    ],
+    "requires": "|High Jump|"
+  },
+  {
+    "name": "High Jump: Reach a score of 65m/71yds",
+    "category": [
+      "Stadium: High Jump"
+    ],
+    "requires": "|Air Glider| AND |City Trial|"
+  },
+  {
+    "name": "High Jump: Reach a score of 85m/93yds",
+    "category": [
+      "Stadium: High Jump"
+    ],
+    "requires": "|Air Glider| AND |City Trial|"
+  },
+  {
+    "name": "Gourmet Race: Eat 5 apples",
+    "category": [
+      "Stadium: Gourmet Race"
+    ],
+    "requires": "|Gourmet Race|"
+  },
+  {
+    "name": "Gourmet Race: Score 50 points",
+    "category": [
+      "Stadium: Gourmet Race"
+    ],
+    "requires": "|Gourmet Race|"
+  },
+  {
+    "name": "Gourmet Race: Score 100 points",
+    "category": [
+      "Stadium: Gourmet Race"
+    ],
+    "requires": "|Gourmet Race|"
+  },
+  {
+    "name": "Gourmet Race: Eat 2 large food items in one match",
+    "category": [
+      "Stadium: Gourmet Race"
+    ],
+    "requires": "|Gourmet Race|"
+  },
+  {
+    "name": "Gourmet Race: Win a match",
+    "category": [
+      "Stadium: Gourmet Race"
+    ],
+    "requires": "|Gourmet Race|"
+  },
+  {
+    "name": "Dustup Derby: Win a match",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|@Dustup Derby|"
+  },
+  {
+    "name": "Dustup Derby 1: Win a match",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|Dustup Derby 1|"
+  },
+  {
+    "name": "Dustup Derby 2: Win a match",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|Dustup Derby 2|"
+  },
+  {
+    "name": "Dustup Derby 3: Win a match",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|Dustup Derby 3|"
+  },
+  {
+    "name": "Dustup Derby 4: Win a match",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|Dustup Derby 4|"
+  },
+  {
+    "name": "Dustup Derby 5: Win a match",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|Dustup Derby 5|"
+  },
+  {
+    "name": "Dustup Derby: Score 5 KOs",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|@Dustup Derby|"
+  },
+  {
+    "name": "Dustup Derby: Score 10 KOs",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|@Dustup Derby| AND (|City Trial| OR |@Offensive Machines|)"
+  },
+  {
+    "name": "Dustup Derby: Win without being KOed",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|@Dustup Derby|"
+  },
+  {
+    "name": "Dustup Derby 3: Use your special twice in one match",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|Dustup Derby 3|"
+  },
+  {
+    "name": "Dustup Derby 5: Break 5 crystals",
+    "category": [
+      "Stadium: Dustup Derby"
+    ],
+    "requires": "|Dustup Derby 5|"
+  },
+  {
+    "name": "Skydive 1: Win a match",
+    "category": [
+      "Stadium: Skydive"
+    ],
+    "requires": "|Skydive 1|"
+  },
+  {
+    "name": "Skydive 2: Win a match",
+    "category": [
+      "Stadium: Skydive"
+    ],
+    "requires": "|Skydive 2|"
+  },
+  {
+    "name": "Skydive: Score 1,000 points with Rex Wheelie",
+    "category": [
+      "Stadium: Skydive"
+    ],
+    "requires": "|@Skydive| AND (|Rex Wheelie| OR |City Trial|)"
+  },
+  {
+    "name": "Skydive 1: Score 1,000 points",
+    "category": [
+      "Stadium: Skydive"
+    ],
+    "requires": "|Skydive 1|"
+  },
+  {
+    "name": "Skydive 1: Score 1,700 points",
+    "category": [
+      "Stadium: Skydive"
+    ],
+    "requires": "|Skydive 1|"
+  },
+  {
+    "name": "Skydive 1: Score 2,400 points",
+    "category": [
+      "Stadium: Skydive"
+    ],
+    "requires": "|Skydive 1|"
+  },
+  {
+    "name": "Skydive 2: Score 1,200 points",
+    "category": [
+      "Stadium: Skydive"
+    ],
+    "requires": "|Skydive 2|"
+  },
+  {
+    "name": "Skydive 2: Score 1,700 points",
+    "category": [
+      "Stadium: Skydive"
+    ],
+    "requires": "|Skydive 2|"
+  },
+  {
+    "name": "Skydive 2: Score 2,200 points",
+    "category": [
+      "Stadium: Skydive"
+    ],
+    "requires": "|Skydive 2|"
+  },
+  {
+    "name": "Kirby Melee: Score 30 points in one match",
+    "category": [
+      "Stadium: Kirby Melee"
+    ],
+    "requires": "|@Kirby Melee|"
+  },
+  {
+    "name": "Kirby Melee: Score 50 points in one match",
+    "category": [
+      "Stadium: Kirby Melee"
+    ],
+    "requires": "|@Kirby Melee|"
+  },
+  {
+    "name": "Kirby Melee: Defeat two big enemies in one match",
+    "category": [
+      "Stadium: Kirby Melee"
+    ],
+    "requires": "|@Kirby Melee|"
+  },
+  {
+    "name": "Kirby Melee: Win a match",
+    "category": [
+      "Stadium: Kirby Melee"
+    ],
+    "requires": "|@Kirby Melee|"
+  },
+  {
+    "name": "Kirby Melee 1: Win a match",
+    "category": [
+      "Stadium: Kirby Melee"
+    ],
+    "requires": "|Kirby Melee 1|"
+  },
+  {
+    "name": "Kirby Melee 2: Win a match",
+    "category": [
+      "Stadium: Kirby Melee"
+    ],
+    "requires": "|Kirby Melee 2|"
+  },
+  {
+    "name": "Kirby Melee: Use 5 copy abilities in one match",
+    "category": [
+      "Stadium: Kirby Melee"
+    ],
+    "requires": "|@Kirby Melee|"
+  },
+  {
+    "name": "Vs. Gigantes: Win as Gigantes",
+    "victory": true,
+    "category": [
+      "Vs. Gigantes"
+    ],
+    "requires": "|@Gigantes| AND |Gigantes Key:3|"
+  },
+  {
+    "name": "Win on Fantasy Meadows",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Fantasy Meadows|"
+  },
+  {
+    "name": "Fantasy Meadows: Complete 3 laps in 1:00.00",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Fantasy Meadows|"
+  },
+  {
+    "name": "Win on Floria Fields",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Floria Fields|"
+  },
+  {
+    "name": "Floria Fields: Complete a lap without inhaling an enemy",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Floria Fields|"
+  },
+  {
+    "name": "Floria Fields: Fly over the goal",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Floria Fields|"
+  },
+  {
+    "name": "Win on Waveflow Waters",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Waveflow Waters|"
+  },
+  {
+    "name": "Waveflow Waters: Complete two laps in 2:30.00",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Waveflow Waters|"
+  },
+  {
+    "name": "Waveflow Waters: Hit 4 parasols in one race",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Waveflow Waters|"
+  },
+  {
+    "name": "Win on Airtopia Ruins",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Airtopia Ruins|"
+  },
+  {
+    "name": "Airtopia Ruins: Ride over all golden dash zones in a race",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Airtopia Ruins|"
+  },
+  {
+    "name": "Airtopia Ruins: Complete two laps in 2:25.00",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Airtopia Ruins|"
+  },
+  {
+    "name": "Win on Crystalline Fissure",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Crystalline Fissure|"
+  },
+  {
+    "name": "Crystalline Fissure: Complete two laps in 3:00.00",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Crystalline Fissure|"
+  },
+  {
+    "name": "Crystalline Fissure: Complete a lap after breaking 2 of the dragon's crystals",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Crystalline Fissure|"
+  },
+  {
+    "name": "Win on Steamgust Forge",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Steamgust Forge|"
+  },
+  {
+    "name": "Steamgust Forge: Complete two laps in 3:00.00",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Steamgust Forge|"
+  },
+  {
+    "name": "Steamgust Forge: Land on top of the steam locomotive",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Steamgust Forge|"
+  },
+  {
+    "name": "Win on Cavernous Corners",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Cavernous Corners|"
+  },
+  {
+    "name": "Cavernous Corners: Finish without hitting the golem on the road",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Cavernous Corners|"
+  },
+  {
+    "name": "Cavernous Corners: Complete two laps in 3:00.00",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Cavernous Corners|"
+  },
+  {
+    "name": "Win on Cyberion Highway",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Cyberion Highway|"
+  },
+  {
+    "name": "Cyberion Highway: Use a switch to make a platform appear 2 times in a race",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Cyberion Highway|"
+  },
+  {
+    "name": "Cyberion Highway: Grow both big and shrink in a race",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Cyberion Highway|"
+  },
+  {
+    "name": "Win on Mount Amberfalls",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Mount Amberfalls|"
+  },
+  {
+    "name": "Mount Amberfalls: Eat the onigiri from the teahouse",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Mount Amberfalls|"
+  },
+  {
+    "name": "Mount Amberfalls: Complete a lap within 1:45.00",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Mount Amberfalls|"
+  },
+  {
+    "name": "Win on Galactic Nova",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Galactic Nova|"
+  },
+  {
+    "name": "Galactic Nova: Complete a lap after passing through 3 shooting-star spots",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Galactic Nova|"
+  },
+  {
+    "name": "Galactic Nova: Copy 4 types of enemies in one race",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Galactic Nova|"
+  },
+  {
+    "name": "Win on Celestial Valley",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Celestial Valley|"
+  },
+  {
+    "name": "Celestial Valley: Ride both grind rails on the Bridge",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Celestial Valley|"
+  },
+  {
+    "name": "Celestial Valley: Land on the tree stump at the beginning of the course",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Celestial Valley|"
+  },
+  {
+    "name": "Win on Sky Sands",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Sky Sands|"
+  },
+  {
+    "name": "Sky Sands: Break 2 pieces of coral and complete a lap",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Sky Sands|"
+  },
+  {
+    "name": "Sky Sands: Take the ruins byroad hidden behind the sand",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Sky Sands|"
+  },
+  {
+    "name": "Win on Frozen Hillside",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Frozen Hillside|"
+  },
+  {
+    "name": "Frozen Hillside: Finish without pressing any buttons",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Frozen Hillside|"
+  },
+  {
+    "name": "Frozen Hillside: Pass through ice rings 3 times",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Frozen Hillside|"
+  },
+  {
+    "name": "Win on Magma Flows",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Magma Flows|"
+  },
+  {
+    "name": "Magma Flows: Get on the rocky area that sinks in lava and let it sink as far as it'll go",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Magma Flows|"
+  },
+  {
+    "name": "Magma Flows: Bump into a flaming dragon",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Magma Flows|"
+  },
+  {
+    "name": "Win on Beanstalk Park",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Beanstalk Park|"
+  },
+  {
+    "name": "Beanstalk Park: Complete a lap after riding on 6 grind rails",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Beanstalk Park|"
+  },
+  {
+    "name": "Beanstalk Park: Finish without riding the ferris wheel",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Beanstalk Park|"
+  },
+  {
+    "name": "Win on Machine Passage",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Machine Passage|"
+  },
+  {
+    "name": "Machine Passage: Defeat 3 enemies at the same time",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Machine Passage|"
+  },
+  {
+    "name": "Machine Passage: Complete a lap without crashing into walls more than 3 times",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Machine Passage|"
+  },
+  {
+    "name": "Win on Checker Knights",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Checker Knights|"
+  },
+  {
+    "name": "Checker Knights: Fly over the wall near the end of the course",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Checker Knights| AND |@Flight Machines|"
+  },
+  {
+    "name": "Checker Knights: Break walls in 2 places in a single race",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Checker Knights|"
+  },
+  {
+    "name": "Win on Nebula Belt",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Nebula Belt|"
+  },
+  {
+    "name": "Nebula Belt: Touch the celing",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Nebula Belt|"
+  },
+  {
+    "name": "Nebula Belt: Finish a lap without crashing into walls more than two times",
+    "category": [
+      "Air Ride"
+    ],
+    "requires": "|Nebula Belt|"
+  },
+  {
+    "name": "Win on Flower",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Flower|"
+  },
+  {
+    "name": "Win on Flow",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Flow|"
+  },
+  {
+    "name": "Win on Air",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Air|"
+  },
+  {
+    "name": "Win on Crystal",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Crystal|"
+  },
+  {
+    "name": "Win on Steam",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Steam|"
+  },
+  {
+    "name": "Win on Cave",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Cave|"
+  },
+  {
+    "name": "Win on Cyber",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Cyber|"
+  },
+  {
+    "name": "Win on Mountain",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Mountain|"
+  },
+  {
+    "name": "Win on Nova",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Nova|"
+  },
+  {
+    "name": "City Trial: 12 or more in all stat points at the end of the game",
+    "category": [
+      "City Trial"
+    ],
+    "requires": "|City Trial|"
+  },
+  {
+    "name": "City Trial: Reach the garden in the sky",
+    "category": [
+      "City Trial"
+    ],
+    "requires": "|City Trial|"
+  },
+  {
+    "name": "City Trial: Enter the volcano",
+    "category": [
+      "City Trial"
+    ],
+    "requires": "|City Trial|"
+  },
+  {
+    "name": "City Trial: Complete a lap on the rails around the city",
+    "category": [
+      "City Trial"
+    ],
+    "requires": "|City Trial|"
+  },
+  {
+    "name": "City Trial: Fly out of both cannons on the sunken ship in one game",
+    "category": [
+      "City Trial"
+    ],
+    "requires": "|City Trial|"
+  },
+  {
+    "name": "City Trial: Complete 1 game",
+    "category": [
+      "City Trial"
+    ],
+    "requires": "|City Trial|"
+  },
+  {
+    "name": "City Trial: Complete 3 games",
+    "category": [
+      "City Trial"
+    ],
+    "requires": "|City Trial|"
+  },
+  {
+    "name": "City Trial: Switch to a vacant duplicate of your machine",
+    "category": [
+      "City Trial"
+    ],
+    "requires": "|City Trial|"
+  },
+  {
+    "name": "City Trial: Switch machines 5 times in one game",
+    "category": [
+      "City Trial"
+    ],
+    "requires": "|City Trial|"
+  },
+  {
+    "name": "City Trial: Defeat another rider in Skyah",
+    "category": [
+      "City Trial"
+    ],
+    "requires": "|City Trial|"
+  },
+  {
+    "name": "Flower: Drive into the gust of wind from the windmill",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Flower|"
+  },
+  {
+    "name": "Flower: Hit both boost panels in a single lap",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Flower|"
+  },
+  {
+    "name": "Flow: Hit two water pillars in one lap",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Flow|"
+  },
+  {
+    "name": "Flow: Don't hit the boat in a lap",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Flow|"
+  },
+  {
+    "name": "Air: Hit both clouds in one lap",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Air|"
+  },
+  {
+    "name": "Air: Fly using the tornado",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Air|"
+  },
+  {
+    "name": "Crystal: Go through 3 air boosters in one lap",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Crystal|"
+  },
+  {
+    "name": "Crystal: Win without hitting the dash panel",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Crystal|"
+  },
+  {
+    "name": "Steam: Enter the hidden passage",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Steam|"
+  },
+  {
+    "name": "Steam: Get hit by the flippers 5 times",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Steam|"
+  },
+  {
+    "name": "Cave: Complete a lap without entering the river",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Cave|"
+  },
+  {
+    "name": "Cave: Destroy the barrier twice in one race",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Cave|"
+  },
+  {
+    "name": "Cyber: Hit the dash panel near the finish line",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Cyber|"
+  },
+  {
+    "name": "Cyber: Win without boosting",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Cyber|"
+  },
+  {
+    "name": "Mountain: Hit the boost panel in the water",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Mountain|"
+  },
+  {
+    "name": "Mountain: Eat the Onigiri from the teahouse twice in one race",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Mountain|"
+  },
+  {
+    "name": "Nova: Complete a lap whilst avoiding the crystal heart",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Nova|"
+  },
+  {
+    "name": "Nova: Win without hitting boost panels",
+    "category": [
+      "Top Ride"
+    ],
+    "requires": "|Nova|"
+  },
+  {
+    "name": "Beam Gauntlet 1: Win a match",
+    "category": [
+      "Stadium: Beam Gauntlet"
+    ],
+    "requires": "|Beam Gauntlet 1|"
+  },
+  {
+    "name": "Beam Gauntlet 2: Win a match",
+    "category": [
+      "Stadium: Beam Gauntlet"
+    ],
+    "requires": "|Beam Gauntlet 2|"
+  }
+]

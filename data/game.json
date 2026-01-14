@@ -1,0 +1,55 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "KirbyAirRiders",
+  "creator": "ManaKatti",
+  "filler_item_name": "Grass",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Character"
+      ],
+      "random": 2
+    },
+    {
+      "item_categories": [
+        "Offensive Machines"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Flight Machines"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Speed Machines"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Course (Air Ride)"
+      ],
+      "random": 2
+    },
+    {
+      "item_categories": [
+        "Course (Top Ride)"
+      ],
+      "random": 2
+    },
+    {
+      "item_categories": [
+        "Stadiums"
+      ],
+      "random": 3
+    },
+    {
+      "items": [
+        "City Trial"
+      ]
+    }
+  ]
+}

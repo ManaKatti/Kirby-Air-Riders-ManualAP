@@ -1,0 +1,1170 @@
+[
+  {
+    "count": 1,
+    "name": "Kirby",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "King Dedede",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Waddle Dee",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Meta Knight",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bandana Waddle Dee",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Waddle Doo",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chef Kawasaki",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Knuckle Joe",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rick",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gooey",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cappy",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rocky",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scarfy",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starman",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lololo and Lalala",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Marx",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Daroach",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magolor",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Taranza",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Susie",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Noir Dedede",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flower",
+    "category": [
+      "Course (Top Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flow",
+    "category": [
+      "Course (Top Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Air",
+    "category": [
+      "Course (Top Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crystal",
+    "category": [
+      "Course (Top Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Steam",
+    "category": [
+      "Course (Top Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cave",
+    "category": [
+      "Course (Top Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cyber",
+    "category": [
+      "Course (Top Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mountain",
+    "category": [
+      "Course (Top Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nova",
+    "category": [
+      "Course (Top Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Floria Fields",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Waveflow Waters",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Airtopia Ruins",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crystalline Fissure",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Steamgust Forge",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cavernous Corners",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cyberion Highway",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mount Amberfalls",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Galactic Nova",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Air Glider",
+    "category": [
+      "Air Glider",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "High Jump",
+    "category": [
+      "High Jump",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Target Flight 1",
+    "category": [
+      "Target Flight",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Target Flight 2",
+    "category": [
+      "Target Flight",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Target Flight 3",
+    "category": [
+      "Target Flight",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vs. Robo Dedede",
+    "category": [
+      "Vs Boss",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vs. Nightmare",
+    "category": [
+      "Vs Boss",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vs. Marx",
+    "category": [
+      "Vs Boss",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vs. Zero Two",
+    "category": [
+      "Vs Boss",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gourmet Race",
+    "category": [
+      "Gourmet Race",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Skydive 1",
+    "category": [
+      "Skydive",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Skydive 2",
+    "category": [
+      "Skydive",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Button Rush 1",
+    "category": [
+      "Button Rush",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Button Rush 2",
+    "category": [
+      "Button Rush",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kirby Melee 1",
+    "category": [
+      "Kirby Melee",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kirby Melee 2",
+    "category": [
+      "Kirby Melee",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rail Panic",
+    "category": [
+      "Rail Panic",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Oval Circuit",
+    "category": [
+      "Oval Circuit",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Drag Race 1",
+    "category": [
+      "Drag Race",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Drag Race 2",
+    "category": [
+      "Drag Race",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Drag Race 3",
+    "category": [
+      "Drag Race",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Drag Race 4",
+    "category": [
+      "Drag Race",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dustup Derby 1",
+    "category": [
+      "Dustup Derby",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dustup Derby 2",
+    "category": [
+      "Dustup Derby",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dustup Derby 3",
+    "category": [
+      "Dustup Derby",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dustup Derby 4",
+    "category": [
+      "Dustup Derby",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dustup Derby 5",
+    "category": [
+      "Dustup Derby",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Battle 1",
+    "category": [
+      "Big Battle",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Battle 2",
+    "category": [
+      "Big Battle",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Battle 3",
+    "category": [
+      "Big Battle",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beam Gauntlet 1",
+    "category": [
+      "Beam Gauntlet",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beam Gauntlet 2",
+    "category": [
+      "Beam Gauntlet",
+      "Stadiums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warp Star",
+    "category": [
+      "Vehicles",
+      "Flight Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Compact Star",
+    "category": [
+      "Vehicles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Winged Star",
+    "category": [
+      "Vehicles",
+      "Flight Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow Star",
+    "category": [
+      "Vehicles",
+      "Flight Machines",
+      "Offensive Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Formula Star",
+    "category": [
+      "Vehicles",
+      "Speed Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bulk Star",
+    "category": [
+      "Vehicles",
+      "Defensive Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rocket Star",
+    "category": [
+      "Vehicles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Swerve Star",
+    "category": [
+      "Vehicles",
+      "Speed Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Turbo Star",
+    "category": [
+      "Vehicles",
+      "Speed Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jet Star",
+    "category": [
+      "Vehicles",
+      "Flight Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wheelie Bike",
+    "category": [
+      "Vehicles",
+      "Bikes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wheelie Scooter",
+    "category": [
+      "Vehicles",
+      "Bikes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rex Wheelie",
+    "category": [
+      "Vehicles",
+      "Offensive Machines",
+      "Bikes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hop Star",
+    "category": [
+      "Vehicles",
+      "Defensive Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vampire Star",
+    "category": [
+      "Vehicles",
+      "Flight Machines",
+      "Offensive Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Paper Star",
+    "category": [
+      "Vehicles",
+      "Flight Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chariot",
+    "category": [
+      "Vehicles",
+      "Offensive Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Battle Chariot",
+    "category": [
+      "Vehicles",
+      "Offensive Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tank Star",
+    "category": [
+      "Vehicles",
+      "Offensive Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bull Tank",
+    "category": [
+      "Vehicles",
+      "Offensive Machines"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Transform Star",
+    "category": [
+      "Vehicles",
+      "Flight Machines",
+      "Bikes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gigantes",
+    "category": [
+      "Gigantes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yellow Kirby",
+    "category": [
+      "Character Skins"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Green Kirby",
+    "category": [
+      "Character Skins"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Red Kirby",
+    "category": [
+      "Character Skins"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Purple Kirby",
+    "category": [
+      "Character Skins"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Blue Kirby",
+    "category": [
+      "Character Skins"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Grey Kirby",
+    "category": [
+      "Character Skins"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for King Dedede 1",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for King Dedede 2",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for King Dedede 3",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Meta Knight 1",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Meta Knight 2",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Waddle Dee",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Bandana Waddle Dee",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Waddle Doo",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Chef Kawasaki",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Knuckle Joe",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Rick",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Gooey",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Cappy",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Rocky",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Scarfy",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Starman",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Lololo and Lalala",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Marx",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Daroach",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Magolor",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Susie",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Color for Noir Dedede",
+    "category": [
+      "Character Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fantasy Meadows",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Celestial Valley",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sky Sands",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frozen Hillside",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magma Flows",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beanstalk Park",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Machine Passage",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Checker Knights",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nebula Belt",
+    "category": [
+      "Course (Air Ride)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vs. Gigantes",
+    "category": [
+      "Vs. Gigantes"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Gigantes Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "City Trial",
+    "category": [
+      "City Trial"
+    ],
+    "early": true,
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Goal Key",
+    "category": [
+      "Goal"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "City Trial: Allow CPU Handicaps",
+    "category": [
+      "City Trial Settings"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "City Trial Timer: 3 Minutes",
+    "category": [
+      "City Trial Settings"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "City Trial Timer: 4 Minutes",
+    "category": [
+      "City Trial Settings"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "City Trial Timer: 6 Minutes",
+    "category": [
+      "City Trial Settings"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "City Trial Timer: 7 Minutes",
+    "category": [
+      "City Trial Settings"
+    ],
+    "useful": true
+  }
+]
