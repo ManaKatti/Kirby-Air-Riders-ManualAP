@@ -384,14 +384,14 @@
     "category": [
       "Stadium: High Jump"
     ],
-    "requires": "|Air Glider| AND |City Trial|"
+    "requires": "|High Jump| AND |City Trial|"
   },
   {
     "name": "High Jump: Reach a score of 85m/93yds",
     "category": [
       "Stadium: High Jump"
     ],
-    "requires": "|Air Glider| AND |City Trial|"
+    "requires": "|High Jump| AND |City Trial|"
   },
   {
     "name": "Gourmet Race: Eat 5 apples",
@@ -623,7 +623,7 @@
     "category": [
       "Vs. Gigantes"
     ],
-    "requires": "|@Gigantes| AND |Gigantes Key:3|"
+    "requires": "|@Gigantes| AND |Gigantes Key:3| AND |@Vs. Gigantes|"
   },
   {
     "name": "Win on Fantasy Meadows",
@@ -1268,5 +1268,15 @@
       "Stadium: Beam Gauntlet"
     ],
     "requires": "|Beam Gauntlet 2|"
+  },
+  {
+    "name": "Collected 3 Gigantes Keys",
+    "category": [
+      "Stadium: Vs. Gigantes"
+    ],
+    "requires": "|Gigantes Key:3|",
+	"place_item": [
+      "Vs. Gigantes"
+    ]
   }
 ]
