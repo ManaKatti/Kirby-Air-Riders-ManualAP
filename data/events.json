@@ -4,6 +4,7 @@
     {
       "name": "Win as Gigantes in Stadium",
       "copy_location": "Vs. Gigantes: Win as Gigantes"
+	  "visible": false
     }
   ],
 }
