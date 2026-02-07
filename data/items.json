@@ -1121,14 +1121,6 @@
   },
   {
     "count": 1,
-    "name": "Goal Key",
-    "category": [
-      "Goal"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "City Trial: Allow CPU Handicaps",
     "category": [
       "City Trial Settings"
